@@ -8,8 +8,7 @@ PokédexReact é uma aplicação interativa criada para aprender a consumir APIs
 
 ## Funcionalidades
 
-- Exibição de informações detalhadas sobre cada Pokémon, incluindo nome, número, tipos, altura, peso e estatísticas.
-- Interface interativa com filtros e categorias para facilitar a navegação.
+- Exibição de informações detalhadas sobre cada Pokémon, incluindo nome, número, tipos e estatísticas. (Será adicionada mais informações)
 - Consumo da PokéAPI para obter os dados dos Pokémons em tempo real.
 - Interface com layout e design responsivo.
 

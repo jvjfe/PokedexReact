@@ -1,7 +1,3 @@
-Aqui está o README atualizado para o seu projeto **PokédexReact**:
-
----
-
 # PokédexReact
 
 PokédexReact é uma aplicação interativa criada para aprender a consumir APIs, utilizando a PokéAPI. O objetivo do projeto é fornecer informações detalhadas sobre todos os Pokémons de forma simples e acessível, além de proporcionar uma experiência agradável aos usuários.
@@ -50,6 +46,3 @@ PokédexReact é uma aplicação interativa criada para aprender a consumir APIs
 ## Contribuições
 
 Sinta-se à vontade para contribuir! Se você tiver sugestões de melhorias ou correções, caso queira ajudar me procure no Discord: https://discord.gg/8vtcXEn 
-
-
----

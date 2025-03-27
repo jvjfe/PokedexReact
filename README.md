@@ -46,3 +46,8 @@ PokédexReact é uma aplicação interativa criada para aprender a consumir APIs
 ## Contribuições
 
 Sinta-se à vontade para contribuir! Se você tiver sugestões de melhorias ou correções, caso queira ajudar me procure no Discord: https://discord.gg/8vtcXEn 
+
+## Licença
+
+Este projeto usa recursos de personagens inspirados na série de jogos Pokémon, mas a licença é da Nintendo. Todos os direitos dos personagens e conteúdo relacionados à série Pokémon pertencem à Nintendo.
+
